@@ -1,2 +1,2 @@
-# School-Projects
-This is my school project based on Microsoft SQL Server
+# SQL Sever project
+This is Microsoft SQL Server school assignment.
